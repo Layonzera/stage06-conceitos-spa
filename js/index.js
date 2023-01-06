@@ -1,0 +1,12 @@
+import './router.js'
+
+// const routes = {
+//   '/': '/pages/home.html',
+//   '/about': '/pages/about.html',
+//   '/contact': '/pages/contact.html',
+//   404: '/pages/404.html'
+// }
+
+// handle()
+// window.addEventListener('popstate', handle)
+// window.route = () => route()
